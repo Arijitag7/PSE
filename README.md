@@ -1,5 +1,5 @@
-Premier Schools Exhibition - Accessible Landing (Starter)
-
+**Premier Schools Exhibition - Accessible Landing (Starter)**
+Website link:-https://arijitag7.github.io/PSE/
 Files included:
 - index.html : main markup (semantic HTML5 + ARIA)
 - styles.css : custom CSS (BEM-like classes), responsive, respects prefers-reduced-motion
